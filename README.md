@@ -66,7 +66,7 @@ ans:
 31. What is jsx?
 ans: JSX is a syntext extension for javascript that lets us like html type mark up inside javascript file.JSX looks a lot like HTML, but it is a bit stricter and can display dynamic information.
 32. What is component?
-ans: 
+ans: a component is a piece of reusable code that represents a part of a user interface. Components are used to render, manage, and update the UI elements in your application. 
 33. What is Hooks?
 ans:Functions starting with use are called Hooks.
 
